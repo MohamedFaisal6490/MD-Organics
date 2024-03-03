@@ -1,0 +1,42 @@
+.sample{
+    background-color: black;
+    width: 500%;
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.navbar-toogler{
+    background-color: white;
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-color: white;
+    padding: 10px 10px;
+}
+
+.DropMenu{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.DropMenu .one{
+    color: white;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.DropMenu .one:hover{
+    color: gray;
+}
+#basic-nav-dropdown{
+        color: white;
+        text-align: center;
+}

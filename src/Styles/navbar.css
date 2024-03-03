@@ -1,0 +1,21 @@
+.Container{
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+.Header-Links{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Header-Links a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Header-Links a:hover{
+    color: deepskyblue;
+}
