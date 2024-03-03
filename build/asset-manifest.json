@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b339c09.css",
+    "main.js": "/static/js/main.c5c45cfc.js",
+    "static/js/453.89f405e1.chunk.js": "/static/js/453.89f405e1.chunk.js",
+    "static/media/Wine Soap.png": "/static/media/Wine Soap.651494743db6a57aa032.png",
+    "static/media/feedbackImg.jpg": "/static/media/feedbackImg.86dbb25499236b7a6b14.jpg",
+    "static/media/ProductSoapCover.jpg": "/static/media/ProductSoapCover.6fd29ca7070baa3f9e5f.jpg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/Neem soap.jpg": "/static/media/Neem soap.49be89525bce7faa9bb1.jpg",
+    "static/media/productSampoocover.jpg": "/static/media/productSampoocover.996e38bb65c0964dd32d.jpg",
+    "static/media/Potato soap.jpg": "/static/media/Potato soap.92dfe3ed54ea2137d781.jpg",
+    "static/media/soap-label-examples.jpg": "/static/media/soap-label-examples.a7fe526142d40b7f0b8c.jpg",
+    "static/media/productOilCover.jpg": "/static/media/productOilCover.22174eae1dbb15d0dcdf.jpg",
+    "static/media/Turmeric soap.jpg": "/static/media/Turmeric soap.a41d656d80a96b30e8d6.jpg",
+    "static/media/Panner Rose.jpg": "/static/media/Panner Rose.88893d6b03ded675032f.jpg",
+    "static/media/Sandle.jpg": "/static/media/Sandle.3c1591b2f209bb682e88.jpg",
+    "static/media/betroot image.jpg": "/static/media/betroot image.57eb4d78ecd12e7314da.jpg",
+    "static/media/carrat soap.jpg": "/static/media/carrat soap.15885142060a3bf43d80.jpg",
+    "static/media/CoverImg.jpg": "/static/media/CoverImg.50a877857053c337fda4.jpg",
+    "static/media/Alovera soap.jpg": "/static/media/Alovera soap.1d4c7b12b59a8a28b137.jpg",
+    "static/media/saffron.jpg": "/static/media/saffron.0b74ad72579238bdaa68.jpg",
+    "static/media/header logo.jpg": "/static/media/header logo.4fa9f8ddb0b7353c4c76.jpg",
+    "index.html": "/index.html",
+    "main.5b339c09.css.map": "/static/css/main.5b339c09.css.map",
+    "main.c5c45cfc.js.map": "/static/js/main.c5c45cfc.js.map",
+    "453.89f405e1.chunk.js.map": "/static/js/453.89f405e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b339c09.css",
+    "static/js/main.c5c45cfc.js"
+  ]
+}
